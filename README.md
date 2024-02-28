@@ -1,4 +1,4 @@
-### Summary
+<!--### Summary
 I have always had a curiosity for the inner workings of computers. My education and personal exploration have put me in the position that I am currently in, a student studying computer science at UIC.
 
 I am a member of UIC's Association for Computing Machinery, specifically the SIG Math group. I joined because of my interest in mathematics, and we are currently working on an RREF calculator.
@@ -10,7 +10,7 @@ I am looking for an internship position this summer. Some of my skills include:
 -Software Proficiency: Word, Excel, PowerPoint, Autodesk Inventor, Vi/Vim, Git
 
 -Fluency in Polish
-<!--
+
 **Trojak0/Trojak0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
